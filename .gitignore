@@ -1,3 +1,5 @@
-parameter_evaluation/
+parameter_evaluation/*
 velocidades_aisaldas.txt
+!parameter_evaluation/analisis_dcut.py
+!parameter_evaluation/Distancias.py
 
